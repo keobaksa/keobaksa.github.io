@@ -8,3 +8,6 @@
 button{
     border-radius: 30px;
 }
+button:hover{
+    background-color: #aaaaaa;
+}
