@@ -1,12 +1,12 @@
 *{
     font-size: 64px;
-    user-select: none;
 }
 #image{
     width: 256px;
     height: auto;
 }
 button{
+    user-select: none;
     border-radius: 30px;
 }
 button:hover{
