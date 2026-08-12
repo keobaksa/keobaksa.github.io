@@ -1,8 +1,9 @@
 *{
     font-size: 64px;
+    user-select: none;
 }
 #image{
-    width: 128px;
+    width: 256px;
     height: auto;
 }
 button{
