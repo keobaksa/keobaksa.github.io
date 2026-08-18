@@ -1,0 +1,26 @@
+*{
+    font-size: 7.5vh;
+    padding: 0.5vw;
+    margin: 0.5vw;
+}
+#image{
+    width: 40vw;
+    height: auto;
+}
+button{
+    user-select: none;
+    border-radius: 3vw;
+    width: auto;
+}
+button:hover{
+    background-color: #dddddd;
+    cursor: pointer;
+}
+input{
+    width: 75vw;
+    height: 10vh;
+    border-radius: 3vw;
+}
+.box{
+    height:5vh;
+}
